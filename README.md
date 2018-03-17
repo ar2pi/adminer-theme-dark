@@ -1,2 +1,2 @@
 # adminer-theme-dark
-Just a custom dark theme for adminer
+Just a custom dark theme for [adminer](https://www.adminer.org/)
