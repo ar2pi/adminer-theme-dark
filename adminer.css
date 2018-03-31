@@ -642,6 +642,11 @@ label {
     box-shadow: 0 10px 30px rgba(228, 71, 71, 0.1);
 }
 
+.error b {
+    background: initial;
+    color: yellow;
+}
+
 #logins a,
 #tables a,
 #tables span {
